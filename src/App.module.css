@@ -1,0 +1,15 @@
+.content {
+  display: flex;
+  height: calc(100vh + 5px);
+  min-width: 320px;
+}
+.actions {
+  display: flex;
+  flex-direction: column;
+  top: 18em;
+  position: relative;
+  color: white;
+}
+.actionText {
+  color: white;
+}
